@@ -1,0 +1,11 @@
+Venv Setup:
+  py -3 -m venv <env name>
+  
+  To activate 
+    venv/Scripts/activate.bat
+  
+  To deactivate
+    venv/Scripts/deactivate.bat
+    
+FastApi Setup:
+  pip install fastapi[all]
